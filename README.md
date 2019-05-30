@@ -1,8 +1,6 @@
 # Toy App - Ruby on Rails Practice
 - I created this project to practice Ruby on Rails based on [Toy App](https://www.railstutorial.org/book/toy_app) on the Rails Tutorial page. The app allows users to write, edit, and delete microposts. 
 
-### Preview:
-![Users Screenshot](users_screenshot.png)
 ![Microposts Screenshot](microposts_screenshot.png)
 ![Edit Micropost Screenshot](edit_micropost_screenshot.png)
 ![Micropost Validation Screenshot](micropost_validation_screenshot.png)
@@ -19,7 +17,8 @@
 * Ruby on Rails
 
 ### Routes:
-- GET	/users	
+- GET	/users
+![Users Screenshot](users_screenshot.png)
 - GET	/users/1	
 - GET	/users/new
 - POST	/users
