@@ -2,7 +2,7 @@
 - I created this project to practice Ruby on Rails based on [Toy App](https://www.railstutorial.org/book/toy_app) on the Rails Tutorial page. The app allows users to write, edit, and delete microposts. 
 
 ### Set-Up:
-* Clone this repo `https://github.com/hlhartley/jquery-practice.git`
+* Clone this repo `https://github.com/hlhartley/toy_app.git`
 * Change directory into the toy_app file
 * Run the command `bundle install`
 * Run the command `rails server`
