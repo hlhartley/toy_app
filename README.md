@@ -3,7 +3,7 @@
 
 ### Set-Up:
 * Clone this repo `https://github.com/hlhartley/toy_app.git`
-* Change directory into the toy_app file
+* Change directory into the toy_app folder
 * Run the command `bundle install`
 * Run the command `rails server`
 * View in browser at localhost:3000/
