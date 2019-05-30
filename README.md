@@ -17,7 +17,7 @@
 * Ruby on Rails
 
 ### Routes:
-- GET	/users
+- GET	/users  
 ![Users Screenshot](users_screenshot.png)
 - GET	/users/1	
 - GET	/users/new
