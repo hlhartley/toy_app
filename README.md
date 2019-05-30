@@ -2,7 +2,11 @@
 - I created this project to practice Ruby on Rails based on [Toy App](https://www.railstutorial.org/book/toy_app) on the Rails Tutorial page. The app allows users to write, edit, and delete microposts. 
 
 ### Preview:
-![Screenshot]()
+![Users Screenshot](users_screenshot.png)
+![Microposts Screenshot](microposts_screenshot.png)
+![Edit Micropost Screenshot](edit_micropost_screenshot.png)
+![Micropost Validation Screenshot](micropost_validation_screenshot.png)
+![Name Authentication Screenshot](name_authentication_screenshot.png)
 
 ### Set-Up:
 * Clone this repo `https://github.com/hlhartley/jquery-practice.git`
