@@ -19,10 +19,16 @@
 ### Routes:
 - GET	/users  
 ![Users Screenshot](users_screenshot.png)
+
 - GET	/users/1	
+
 - GET	/users/new
+
 - POST	/users
+
 - GET	/users/1/edit
+
 - PATCH	/users/1
+
 - DELETE /users/1
 
