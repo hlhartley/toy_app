@@ -1,24 +1,25 @@
-# README
+# Toy App - Ruby on Rails Practice
+- I created this project to practice Ruby on Rails based on [Toy App](https://www.railstutorial.org/book/toy_app) on the Rails Tutorial page. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Preview:
+![Screenshot]()
 
-Things you may want to cover:
+### Set-Up:
+* Clone this repo `https://github.com/hlhartley/jquery-practice.git`
+* `cd` into the toy_app file
+* Run the command `bundle install`
+* Run the command `rails server`
+* View in browser at localhost:3000/
 
-* Ruby version
+### Primary Technologies Used:
+* Ruby on Rails
 
-* System dependencies
+### Routes:
+GET	/users	
+GET	/users/1	
+GET	/users/new
+POST	/users
+GET	/users/1/edit
+PATCH	/users/1
+DELETE /users/1
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
