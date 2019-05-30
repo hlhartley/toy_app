@@ -12,37 +12,37 @@
 * Ruby on Rails
 
 ### User Routes:
-- `GET	/users  
+- `GET	/users`  
 ![Users Screenshot](users_screenshot.png)
 
-- `GET	/users/1	
+- `GET	/users/1`	
 
-- `GET	/users/new
+- `GET	/users/new`
 
-- `POST	/users
+- `POST	/users`
 
-- `GET	/users/1/edit
+- `GET	/users/1/edit`
 
-- `PATCH	/users/1
+- `PATCH	/users/1`
 
-- `DELETE /users/1
+- `DELETE /users/1`
 
 ### Micropost Routes:
-- `GET	/microposts  
+- `GET	/microposts`  
 ![Microposts Screenshot](microposts_screenshot.png)
 
-- `GET	/microposts/1	
+- `GET	/microposts/1`	
 
-- `GET	/microposts/new
+- `GET	/microposts/new`
 
-- `POST	/microposts
+- `POST	/microposts`
 
-- `GET	/microposts/1/edit  
+- `GET	/microposts/1/edit`  
 ![Edit Micropost Screenshot](edit_micropost_screenshot.png)
 
-- `PATCH	/microposts/1
+- `PATCH	/microposts/1`
 
-- `DELETE /microposts/1
+- `DELETE /microposts/1`
 
 ### Validation & Authentication Screenshots:
 ![Micropost Validation Screenshot](micropost_validation_screenshot.png)  
