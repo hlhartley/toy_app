@@ -15,11 +15,11 @@
 * Ruby on Rails
 
 ### Routes:
-GET	/users	
-GET	/users/1	
-GET	/users/new
-POST	/users
-GET	/users/1/edit
-PATCH	/users/1
-DELETE /users/1
+- GET	/users	
+- GET	/users/1	
+- GET	/users/new
+- POST	/users
+- GET	/users/1/edit
+- PATCH	/users/1
+- DELETE /users/1
 
